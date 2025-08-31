@@ -1,2 +1,7 @@
 # AI_banking_assistance
 "AI-powered banking assistant with real-time fraud detection. Built for Indian banking standards with UPI integration. Features Vizhibot AI for 24/7 customer support."
+
+
+click here:https://mylgdd6g5jxpztcqndqcx4.streamlit.app/
+
+***the link that you can view the project***
